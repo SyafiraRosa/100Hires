@@ -77,4 +77,4 @@ By leveraging Cursor, Claude, and Codex, a marketer can:
 ---
 
 *Prepared with high-standards, technical rigor, and independent curiosity for **100Hires**.*  
-*Candidate: **Syafira***
+*Candidate: **Syafira Rosa Amalia***
