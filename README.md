@@ -36,6 +36,10 @@ I systematically followed the setup instructions and completed the onboarding wo
 - [x] **Step 5:** Initialized and opened this local repository folder within Cursor to establish workspace context.
 - [x] **Step 6:** Authored this comprehensive, beautifully structured `README.md` documenting my setup process, troubleshooting steps, and strategic reflections.
 - [x] **Step 7:** Committed all files locally and successfully pushed the codebase to my remote public GitHub repository.
+- [x] **Step 8:** (Phase 2) Curated 10 high-signal, practitioner-first experts for the AI-Powered SEO Content Production research.
+- [x] **Step 9:** (Phase 2) Developed a Python script to fetch YouTube transcripts via the `youtube-transcript-api` and successfully extracted 10 full transcripts.
+- [x] **Step 10:** (Phase 2) Manually collected and analyzed 30 recent LinkedIn posts from the selected experts, extracting actionable "Key Insights" for 100Hires.
+- [x] **Step 11:** (Phase 2) Structured the repository data cleanly into `/research` directories and committed incrementally to GitHub.
 
 ---
 
