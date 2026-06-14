@@ -76,5 +76,96 @@ By leveraging Cursor, Claude, and Codex, a marketer can:
 
 ---
 
+## 🔬 5. Research Project: AI-Powered SEO Content Production
+
+### Topic Selected
+
+**AI-Powered SEO Content Production** — chosen because it is the most strategically direct fit for 100Hires as an AI-native B2B SaaS company: it is the discipline that will be used to grow the company's organic visibility, and it requires exactly the balance of AI tool proficiency and human editorial judgment that this role demands.
+
+### Expert Selection Rationale
+
+The 10 experts were selected using the following criteria — **not** by searching "top SEO experts" and picking the first results:
+
+1. **Practitioner-first**: They publish based on real experiments, client data, and live workflow results — not aggregated advice from other blogs.
+2. **AI-native focus**: Their content specifically addresses how to integrate AI tools within a structured, accountable content production workflow.
+3. **Recency**: All experts are active in 2025–2026, adapting their frameworks to the GEO (Generative Engine Optimization) era.
+4. **Signal strength**: Prioritized experts who share real measurable outcomes — traffic case studies, tool results, tracked rank changes.
+5. **Full-stack coverage**: The 10 experts collectively cover the entire AI-SEO production stack: content architecture, quality standards, workflow, distribution, measurement, and business ROI.
+
+### The 10 Experts
+
+| # | Expert | Role | Primary Focus |
+|---|--------|------|--------------|
+| 1 | **Koray Tuğberk GÜBÜR** | Founder, Holistic SEO | Semantic SEO, Topical Authority, AI content architecture |
+| 2 | **Lily Ray** | VP SEO Strategy, Amsive | E-E-A-T, Algorithm Analysis, Quality Standards |
+| 3 | **Kevin Indig** | Independent Growth Advisor | Information Gain, Zero-Click, AI Growth Strategy |
+| 4 | **Ross Simmonds** | Founder, Foundation Inc. | GEO, Content Distribution, AI Citation Strategy |
+| 5 | **Aleyda Solís** | Founder, Orainti | AI Content Workflows, Production SOPs, Technical SEO |
+| 6 | **Eli Schwartz** | Author, Product-Led SEO | Audience-First Strategy, Commercial Intent, ROI Frameworks |
+| 7 | **Britney Muller** | AI & SEO Consultant | Quotable Content, LLM Chunking, Practical AI Toolkit |
+| 8 | **Patrick Stox** | Technical SEO, Ahrefs | Data-Backed Analysis, AI Overview Impact, Technical Foundations |
+| 9 | **Milosz Krasiński** | Founder, AIVisibility.com | AI Citation Measurement, GEO Tracking, Link-Citation Correlation |
+| 10 | **Wil Reynolds** | CEO, Seer Interactive | People-First SEO, Business ROI Attribution, Strategic Clarity |
+
+### Repository Structure
+
+```
+100Hire/
+├── README.md
+├── scripts/
+│   └── fetch_transcripts.py          ← Automated YouTube transcript fetcher (Python)
+└── research/
+    ├── sources.md                     ← Annotated expert list with full rationale
+    ├── linkedin-posts/                ← Curated LinkedIn posts by author
+    │   ├── koray-gubur.md
+    │   ├── lily-ray.md
+    │   ├── kevin-indig.md
+    │   ├── ross-simmonds.md
+    │   ├── aleyda-solis.md
+    │   ├── eli-schwartz.md
+    │   ├── britney-muller.md
+    │   ├── patrick-stox.md
+    │   ├── milosz-krasinski.md
+    │   └── wil-reynolds.md
+    ├── youtube-transcripts/           ← Full transcripts fetched via API
+    │   ├── koray-gubur-topical-authority-semantic-seo.md     (~5,671 words)
+    │   ├── ross-simmonds-content-distribution-ai.md          (~4,582 words)
+    │   ├── lily-ray-eeat-ai-search.md                        (~11,009 words)
+    │   ├── kevin-indig-seo-attribution-ai-growth.md          (~10,109 words)
+    │   └── eli-schwartz-product-led-seo-ai.md                (~10,238 words)
+    └── other/
+        └── supplementary-research.md  ← Newsletter and book research notes
+```
+
+### Tools & Methods Used
+
+| Task | Tool / Method | Notes |
+|------|--------------|-------|
+| Expert Research | Web research + cross-referencing | 2+ hours of curation, not first-page results |
+| YouTube Transcripts | `youtube-transcript-api` v1.2.4 (Python) | 5/5 transcripts fetched successfully |
+| LinkedIn Posts | Manual collection + curation | 3 posts per expert, highest-engagement posts |
+| Newsletter Research | Manual reading + synthesis | Growth Memo, SEOFOMO selected editions |
+| Content Organization | Git + Markdown | Committed in logical, incremental stages |
+
+### Key Insights from Research
+
+The most important findings that will directly inform a playbook for 100Hires:
+
+1. **GEO is now a parallel track to SEO** (Ross Simmonds): Optimizing to be cited by AI systems (ChatGPT, Gemini) requires a distinct strategy from ranking on Google — but both are now essential.
+
+2. **Information Gain is the quality filter** (Kevin Indig): Raw AI content without unique data, original case studies, or proprietary insights will underperform — regardless of how well-written it is.
+
+3. **Commercial intent queries survive AI Overviews** (Patrick Stox, Eli Schwartz): Comparison pages, alternatives pages, and use-case content remain click-driven even with AI Overviews present. This is where 100Hires should concentrate content production.
+
+4. **E-E-A-T is the production quality standard** (Lily Ray): Every AI-assisted piece must demonstrate Experience (first-hand use), Expertise (domain credibility), Authority (cited by others), and Trust (verifiable claims).
+
+5. **Chunking defines citation eligibility** (Britney Muller): Content must be structured in self-contained, machine-parseable sections of ~350–400 words with key information front-loaded — not buried in narrative prose.
+
+6. **Pre-production determines output quality** (Aleyda Solís): Teams that invest in structured research briefs before prompting AI produce significantly higher-quality content than teams who use bare "write me an article" prompts.
+
+---
+
 *Prepared with high-standards, technical rigor, and independent curiosity for **100Hires**.*  
-*Candidate: **Syafira Rosa Amalia***
+*Candidate: **Syafira Rosa Amalia***  
+*Phase 1 (Setup): Completed | Phase 2 (Research): Completed | Phase 3 (Playbook): In Progress*
+
