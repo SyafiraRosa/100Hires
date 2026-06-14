@@ -3,103 +3,74 @@
 **Expert:** Eli Schwartz  
 **LinkedIn Profile:** https://www.linkedin.com/in/schwartze/  
 **Collection Date:** June 2026  
-**Source Type:** Manual collection of highest-engagement posts (2024–2025)
+**Source Type:** Manual collection of latest posts
 
 ---
 
 ## Post 1
 
-**Date:** November 2024  
-**Engagement:** ~1,890 reactions, 201 comments  
+**Date:** Early 2026  
 
-> **The SEO mistake that wastes the most money:**
+> **I don't know anyone who actually uses Perplexity for search.**
 >
-> Targeting keywords your customers don't use.
+> Perplexity raised a ton of money to beat Google, so I pulled Similarweb data to see whether my anecdote was an outlier or part of a pattern.
 >
-> I call this the "Avatar Quest" problem.
+> Perplexity is sitting at around 150 million monthly visits. That sounds impressive until you put it next to Google, which has 80+ BILLION monthly visits.
 >
-> Most SEOs do keyword research by asking: "What does Google have volume for?"
+> Perplexity is getting less traffic than some mid-tier content farms. The product is good, and the few times I've used it have been good experiences. Objectively, it should be winning converts from Google every day.
 >
-> Product-Led SEO practitioners ask: "What does our actual buyer type into a search engine when they are trying to solve our product's core problem?"
+> "Objectively good" and "what people actually use" have almost nothing to do with each other in consumer search. Just ask Bing.
 >
-> These are completely different queries.
+> Having a great product pales in comparison to having great distribution. Google has 25 years of muscle memory and a homepage on every browser.
 >
-> A B2B SaaS company selling recruiting software might rank for "what is an applicant tracking system" and get 10,000 monthly visitors.
->
-> Almost none of those visitors are buyers. They are students, journalists, and curious professionals who have no purchasing intent.
->
-> Meanwhile, queries like "best ATS for startups under 100 employees" or "Greenhouse alternatives that are cheaper" might have 500 monthly searches — but 40% of those searchers are in active buying mode.
->
-> 500 high-intent visitors > 10,000 curiosity-driven visitors every single time.
->
-> Know your avatar. Optimize for their search journey, not for volume.
+> Unless someone can beat Google at distribution, Google will always be dominant.
 
-**Key Insight for AI-SEO Production:** This is the most directly actionable insight for 100Hires' content strategy. The company should prioritize producing AI-assisted content for high-intent queries like "ATS for small business," "Greenhouse alternatives for startups," or "100Hires pricing" — not generic awareness content about "what is recruitment software."
+**Key Insight for AI-SEO Production:** This serves as a reality check for our resource allocation at 100Hires. While Generative Engine Optimization (GEO) is important, the vast majority of our prospective buyers' search journeys still begin and end on Google. Our AI content production must prioritize Google's ranking factors (and its AI Overviews) first, viewing platforms like Perplexity as secondary, incremental channels rather than the primary focus.
 
 ---
 
 ## Post 2
 
-**Date:** February 2025  
-**Engagement:** ~1,340 reactions, 158 comments  
+**Date:** Mid 2026  
 
-> **Product-Led SEO works better in the age of AI. Here's why.**
+> **Companies are about to waste a lot of money hiring for AEO.**
 >
-> Everyone is panicking about AI search destroying organic traffic.
+> They're pulling out their old SEO job descriptions, crossing out "keyword rankings," typing "prompt visibility," and convincing themselves they've modernized.
 >
-> But here's the thing: AI Overviews primarily absorb **informational queries** — "what is," "how does," "explain to me."
+> This will not work.
 >
-> Product-Led SEO, by contrast, targets **commercial and transactional queries** — "best X for Y," "X vs Y," "X alternatives," "X pricing."
+> The person who you want for AEO doesn't come from a content agency. Nor are they a technical SEO hire with AEO certifications stapled to their resume.
 >
-> These commercial queries remain largely click-driven because:
+> Just like with SEO, the profile that produces results here looks exactly like a product manager.
 >
-> 1. Users comparing products want to actually visit the pages and read the details
-> 2. AI Overviews are less confident about expressing commercial preferences (it feels promotional)
-> 3. The searcher's goal is to *make a purchase decision*, and they don't trust a summary — they want the source
+> Many hiring managers won't realize this until they've already made the wrong hire. SEO managers who move the needle aren't the ones who know the most technical tricks, it's the ones with the most customer empathy and can understand user journeys.
 >
-> If your SEO strategy is built on high-intent commercial queries and product-focused content:
-> - Your traffic is more resilient to AI search displacement
-> - Your conversion rates are structurally higher
-> - Your content ROI is easier to attribute to revenue
->
-> The brands most hurt by AI in search are the ones that built empires on informational content.
->
-> The brands thriving are the ones that built content around buyer decisions.
+> That's a skill that transfers directly to the AI era.
 
-**Key Insight for AI-SEO Production:** This validates the entire strategy for 100Hires' AI content program. A focus on comparison pages, alternative pages, pricing pages, and use-case landing pages produces a traffic profile that is structurally resilient to AI Overview displacement — and converts at dramatically higher rates.
+**Key Insight for AI-SEO Production:** This validates the entire Product-Led SEO philosophy for 100Hires. The success of our AI content won't depend on how well we hack LLM prompts, but on how deeply we understand the HR manager/recruiter's journey. Before generating content, we must apply product management principles: interviewing users, identifying exact friction points in the hiring process, and using AI to build content that solves those specific problems.
 
 ---
 
 ## Post 3
 
-**Date:** April 2025  
-**Engagement:** ~2,050 reactions, 234 comments  
+**Date:** Mid 2026  
 
-> **The content ROI framework nobody talks about:**
+> **AEO was supposed to replace SEO. That premise only worked if Google lost.**
 >
-> Most marketing teams measure content by: pageviews, time on page, and ranking position.
+> The whole narrative was built on ChatGPT and others eating into Google's dominance. Investors poured money into new AEO tools that were going to own this new space.
 >
-> None of those metrics are business outcomes.
+> Consultants rebranded overnight to GEO/AEO/LLMEO. Everyone assumed the search landscape was about to flip to something brand new.
 >
-> Here is the framework I use to evaluate whether content is worth producing:
+> But Google didn't lose, and now that's becoming obvious.
 >
-> **Question 1: Who is the exact buyer persona this content serves?**
-> (If the answer is "anyone interested in our industry," stop. Restart.)
+> Google has structural advantages that were always going to be hard to beat:
+> - The index
+> - Deep financial pockets
+> - Default search on billions of devices
+> - User trust built over two decades
+> - Native hardware
+> - Data, data and more data
 >
-> **Question 2: At what stage of the buying journey does this content engage them?**
-> (Awareness = long sales cycle. Decision = immediate pipeline impact.)
->
-> **Question 3: What is the next action we want them to take?**
-> (If the content ends without a clear conversion path, it is a brand exercise, not an ROI exercise.)
->
-> **Question 4: What is a realistic conversion rate from this content type to that action?**
-> (Model the math before you produce the content.)
->
-> **Question 5: At what scale of traffic does this content become profitable?**
-> (Minimum viable traffic × conversion rate × LTV × margin = content ROI threshold)
->
-> Run this before commissioning any AI-assisted content piece.
->
-> This prevents the "we published 100 articles and got no pipeline" problem that kills content programs.
+> If Google stays dominant (and it looks like it will), AEO doesn't replace SEO. It just becomes a layer on top of it, with Google deciding how much of any given result is AI-generated vs. traditional.
 
-**Key Insight for AI-SEO Production:** Eli's 5-question ROI framework should become 100Hires' mandatory content brief template. Every AI-assisted content piece commissioned should be able to answer all five questions before a single word is written.
+**Key Insight for AI-SEO Production:** For 100Hires' strategy, AEO/GEO is a *layer* on top of traditional SEO, not a replacement. We cannot abandon fundamental SEO practices (technical site health, backlink acquisition, clear site architecture) in favor of pure AI prompt optimization. The traditional signals are what get us into Google's index in the first place; the AEO layer is what ensures Google's AI Overview cites us from that index.

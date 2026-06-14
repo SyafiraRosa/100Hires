@@ -1,94 +1,70 @@
 # LinkedIn Posts: Milosz Krasiński
 
 **Expert:** Milosz Krasiński  
-**LinkedIn Profile:** https://www.linkedin.com/in/milosz-krasinski/  
+**LinkedIn Profile:** https://www.linkedin.com/in/miloszkrasinski/  
 **Collection Date:** June 2026  
-**Source Type:** Manual collection of highest-engagement posts (2024–2025)
+**Source Type:** Manual collection of latest posts
 
 ---
 
 ## Post 1
 
-**Date:** November 2024  
-**Engagement:** ~1,120 reactions, 134 comments  
+**Date:** Early 2026  
 
-> **I built a tool to measure AI visibility. Here's what the data shows after 6 months:**
+> **New in Google Search Console: a dedicated Generative AI features report.**
 >
-> After tracking 200+ brands across ChatGPT, Gemini, Claude, and Perplexity for 6 months, here are the patterns:
+> It sits right under Search results, and it finally breaks out your visibility inside Google's AI experiences.
 >
-> **Brands with highest AI citation rates have in common:**
-> - Strong Wikipedia presence (or Wikipedia mentions from other articles)
-> - High volume of brand mentions on authoritative news sites (G2, Capterra, Forbes, TechCrunch)
-> - Active, cited LinkedIn presence (posts that get reshared on platforms LLMs train on)
-> - Consistent branded content with specific, quotable statistics about their market
+> What it covers:
+> → Dedicated reporting for both Search and Discover
+> → Visibility tied to AI Overviews, AI Mode, and AI powered Discover
+> → Impressions (no clicks yet)
 >
-> **What does NOT correlate with AI citation rate:**
-> - Blog post volume alone
-> - Generic informational content
-> - Domain age
-> - Social media follower count
+> ❗️One limitation worth knowing: it won't show the actual queries. You get impressions sliced by Pages, Countries, Devices and Dates – nothing more. So we can only see we're showing up in AI answers, but can't see what triggered it.
 >
-> The pattern is clear: **AI systems prefer brands that the rest of the web already trusts and references.**
+> For now it's UK only – we already see it on one of our client accounts. Later it will expand globally.
 >
-> You don't optimize for AI citations. You optimize for web authority, and AI citations follow.
+> Even with the gaps, this is the first real Google data on AI visibility. I wonder how long before clicks show up too.
 
-**Key Insight for AI-SEO Production:** For 100Hires, this data suggests a parallel track alongside content production: actively pursuing review site listings (G2, Capterra, GetApp), PR mentions, and LinkedIn brand presence to build the authority signals that generate AI citation rates.
+**Key Insight for AI-SEO Production:** This validates the need for third-party prompt tracking (as suggested by Kevin Indig). Because Google Search Console's AI reporting anonymizes the queries, 100Hires cannot rely on GSC to know *which* prompts we are winning in AI Overviews. We must maintain our own external tracking panels to accurately measure the ROI of specific AI-SEO content campaigns.
 
 ---
 
 ## Post 2
 
-**Date:** February 2025  
-**Engagement:** ~980 reactions, 118 comments  
+**Date:** Early 2026  
 
-> **The AI visibility measurement framework you can use today:**
+> **There's one thing I've just noticed about Google's new AI SEO guide.**
 >
-> Stop just tracking Google rankings. Start tracking AI citations.
+> It covers only the search layer, meaning what happens when someone types a query into Google.
 >
-> Here's a simple manual process to get started (no tool required):
+> But what about the training layer? That's a different question.
 >
-> **Step 1: Identify your 20 highest-intent target queries**
-> (The questions your ideal buyer asks when they're 70% of the way to purchase)
+> How a model was trained, which sources it absorbed before it ever touched your query and which voices it treats as authoritative by default... none of that is mentioned.
 >
-> **Step 2: Ask each query to ChatGPT, Gemini, Claude, and Perplexity**
+> We've been tracking AI visibility across clients since AI Overviews launched in 2024, and there's a HUGE difference between the two:
 >
-> **Step 3: Track these metrics for each response:**
-> - Is your brand mentioned at all?
-> - If yes, is it mentioned positively, neutrally, or negatively?
-> - Which competitors are mentioned in the same response?
-> - Which sources does the AI cite at the bottom?
+> → "Can Google retrieve my content?"
+> → "Does the model already have a prior about who the authority in my space is?"
 >
-> **Step 4: Record baseline in a spreadsheet**
->
-> **Step 5: Repeat every 4 weeks**
->
-> This simple tracking system gives you an AI visibility baseline that you can then optimize toward — because what gets measured gets managed.
->
-> My tool (AIVisibility.com) automates this. But you can do it manually while you evaluate whether the automation is worth it.
+> Good food for thought 👊
 
-**Key Insight for AI-SEO Production:** This framework is immediately implementable at 100Hires. A simple spreadsheet tracking AI citation rates across 20 high-intent ATS queries provides a measurable baseline for the AI-SEO content program that goes beyond traditional rank tracking.
+**Key Insight for AI-SEO Production:** Generative Engine Optimization (GEO) has two layers. The "search layer" is handled by writing good, scannable content. But the "training layer" means 100Hires must be actively mentioned across the web (PR, podcasts, Reddit, LinkedIn) so that future iterations of LLMs inherently recognize 100Hires as a foundational authority in the ATS space, regardless of what's on our specific web pages.
 
 ---
 
 ## Post 3
 
-**Date:** April 2025  
-**Engagement:** ~1,450 reactions, 163 comments  
+**Date:** Early 2026  
 
-> **The link between backlinks and AI citations: what I found**
+> **So now Google says brand mentions don't matter for rankings. And suddenly everyone believes them 🤦‍♂️**
 >
-> Correlation analysis across 500 domains:
+> I mean, this is the same Google that spent 20 years telling you not to build links, not to guest post, not to optimize for featured snippets... and every single time, SEOs who ignored the advice and tested anyway proved them wrong.
 >
-> - Domains with DR 40+ are **4.2x** more likely to be cited by AI systems than DR 20–40 domains
-> - Domains with DR 60+ are **8.7x** more likely to be cited than DR 20–40 domains
-> - Among high-DR sites, those with *diverse* backlink profiles (many referring domains) are cited more than those with high-volume but low-diversity links
+> Ahrefs studied 75K brands and found that brand mentions correlate with AI Overview visibility at 0.664 (that's 3x stronger than backlinks!).
 >
-> What this means: **link building is now doubly important.**
+> Yet here we are, nodding along to yet another Google guideline??
 >
-> It used to matter for Google rankings. Now it also matters for AI citation authority.
->
-> The sites that invested in sustainable, white-hat link building over the past 3–5 years are the sites winning the AI visibility race today.
->
-> The correlation between backlink profile quality and AI citation rate is among the strongest I have found in this data set.
+> ChatGPT, Claude, Perplexity — none of them take orders from Google. Your brand's reputation inside those systems is entirely yours to shape, and ofc Google has zero incentive to tell you how. Their job is to protect their business.
 
-**Key Insight for AI-SEO Production:** This data provides the justification for including link building as a component of 100Hires' AI-SEO strategy. Content production alone, without domain authority building, will underperform in AI citation rates. Guest posting, PR outreach, and review site listings are not separate from SEO — they are prerequisites for AI visibility.
+**Key Insight for AI-SEO Production:** This is a paradigm shift for 100Hires' growth strategy. While traditional SEO relies heavily on building backlinks, GEO relies heavily on *unlinked brand mentions*. Our content distribution strategy must optimize for getting the name "100Hires" mentioned in comparison discussions on platforms like Reddit, Quora, and LinkedIn, because those raw text mentions correlate 3x stronger with AI Overview visibility than traditional links do.

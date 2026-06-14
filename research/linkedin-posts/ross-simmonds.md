@@ -3,99 +3,80 @@
 **Expert:** Ross Simmonds  
 **LinkedIn Profile:** https://www.linkedin.com/in/rosssimmonds/  
 **Collection Date:** June 2026  
-**Source Type:** Manual collection of highest-engagement posts (2024–2025)
+**Source Type:** Manual collection of latest posts
 
 ---
 
 ## Post 1
 
-**Date:** August 2024  
-**Engagement:** ~3,400 reactions, 321 comments  
+**Date:** Early 2025  
 
-> **Create once. Distribute forever.**
+> **Most marketers are still optimizing for the wrong internet.**
 >
-> This is the most underrated content strategy principle in B2B marketing.
+> The one humans see is the surface:
+> Pretty websites, sharp copy, tight design, storytelling that moves people.
+> We've spent 20 years getting good at this layer.
+> Someone at Cannes is going to get an award for this layer in a few weeks.
 >
-> Most content teams work in reverse:
-> - Publish a blog post
-> - Share it once on LinkedIn
-> - Move on to the next piece
+> The one AI reads is underneath.... Five levels deep.
+> And it's where buying decisions are quietly being made right now.
 >
-> The content dies after 48 hours.
+> When someone asks ChatGPT "who's the best [your category]?"
+> Your homepage doesn't show up or even get cited.
+> Your $500k creative campaign doesn't impact them.
+> Your $40k white paper with quotes from execs isn't there.
 >
-> The alternative: a single piece of high-quality content should fuel:
-> ✅ A LinkedIn carousel breaking down the key framework
-> ✅ 3-5 Twitter/X threads with specific data points
-> ✅ A YouTube video walkthrough
-> ✅ A podcast episode discussing the findings
-> ✅ An email sequence to your newsletter
-> ✅ A Reddit post in the relevant subreddit
-> ✅ A Quora answer on the related question
-> ✅ A SlideShare deck for the methodology
+> Build once for humans.
+> Build deeper for machines.
 >
-> The best content marketers I know don't publish 50 pieces/month. They publish 5 exceptional pieces and distribute them into 50 touchpoints.
->
-> Quality × Distribution = Compounding Content ROI
->
-> AI tools make this 10x easier. Use them.
+> The question is whether you're building for both internets...
+> Or still designing for one.
 
-**Key Insight for AI-SEO Production:** For 100Hires, this means the AI-SEO content production strategy should include a built-in distribution layer. Every long-form comparison page or pillar article should have a distribution plan (LinkedIn posts, email snippet, community post) baked in from the start — not as an afterthought.
+**Key Insight for AI-SEO Production:** This is the core philosophy of Generative Engine Optimization (GEO). For 100Hires, our content production must "build deeper for machines." This means ensuring our articles and landing pages are not just visually appealing, but structurally formatted with clear entity relationships, schema markup, and concise definitional sentences that AI systems can easily extract and cite when a user asks "who is the best ATS?".
 
 ---
 
 ## Post 2
 
-**Date:** November 2024  
-**Engagement:** ~2,890 reactions, 267 comments  
+**Date:** Early 2025  
 
-> **GEO is the new SEO. Here's what it actually means for your content strategy.**
+> **YouTube is the most under invested in channel for B2B SaaS today.**
 >
-> Generative Engine Optimization (GEO) is not a gimmick. It's a legitimate discipline shift.
+> We recently created 3 YouTube videos for a client.
+> In the matter of 24 hours, the YouTube video ranked above content that they were trying to outrank with blog posts for 3 years.
 >
-> Old SEO: Optimize pages to rank on Google's SERP.
-> New GEO: Optimize content to be *cited* by AI systems (ChatGPT, Gemini, Claude, Perplexity, AI Overviews).
+> We've been analyzing CPC & Google Ads data across multiple industries and time and time again we see a simple truth:
+> -- You can capture traffic with a YouTube video that you're already spending thousands on with paid ads.
 >
-> The mechanism is different. The goal is different. The tactics are different.
+> Our team has found creators all over the US and Canada to support our clients in producing these videos and the content has been a HUGE success.
 >
-> **What GEO requires:**
+> The approach?
+> 1) Prioritize low density keywords that have a high CPC
+> 2) Identify a content creation strategy for these video assets
+> 3) Create high quality YouTube videos that follow best practices
+> 4) Distribute those YouTube videos with SEO and paid media coverage
 >
-> 1. **Quotable, self-contained statements** — AI systems extract and cite specific sentences. Your content must contain sentences that stand alone as useful answers.
->
-> 2. **Statistical density** — AI systems heavily favor content with specific, citable statistics. "Brands using AI in their content workflow reduce production time by 40-60%" is citable. "Many companies save time with AI" is not.
->
-> 3. **Source authority** — AI models are biased toward information from sites with high domain authority and citation rates. This is why brand PR and backlink authority still matter enormously.
->
-> 4. **Structural clarity** — clear headings, lists, definitions, and FAQ-style answers are more parseable by LLMs. Dense narrative prose buries the citable information.
->
-> 5. **Multi-platform presence** — LLMs learn from Reddit, LinkedIn, YouTube, and forums. If your brand is only present on your own website, you have minimal training data representation.
->
-> The transition from SEO to GEO is not optional. It's already happening.
+> Rinse and repeat.
+> This is what Foundation has been preaching for years.
 
-**Key Insight for AI-SEO Production:** This is the strategic north star for 100Hires' content approach. Every AI-produced article should be GEO-optimized: rich with specific statistics, structured with clear definition blocks and FAQ sections, and supported by a multi-platform distribution strategy that seeds the content across Reddit, LinkedIn, and YouTube.
+**Key Insight for AI-SEO Production:** This offers a direct, high-impact tactic for 100Hires. Instead of solely battling in text-based SEO, we should identify high-CPC recruiting/ATS keywords and use AI to script and produce highly optimized YouTube videos for those topics. Since Google aggressively features YouTube in both traditional search and AI Overviews, this is a rapid bypass to top visibility.
 
 ---
 
 ## Post 3
 
-**Date:** February 2025  
-**Engagement:** ~1,960 reactions, 198 comments  
+**Date:** Early 2025  
 
-> **The data on how AI systems choose what to cite is now clearer:**
+> **Ten years ago, you could publish a blog post and forget about it.**
 >
-> Based on research published in the "GEMS" paper (Generative Engine Marketing Study) and my own testing with Distribution.ai:
+> Today, that same post could be shaping your brand authority in ways you don't realize.
 >
-> AI systems like ChatGPT and Gemini disproportionately cite content that:
+> Ahrefs Agent A AI-driven authority audit uncovered an old article quietly ranking for irrelevant keywords and hundreds of spam backlinks that were never intentionally built. Both had been sitting there for years.
 >
-> 📊 **Contains original statistics** — especially proprietary data or survey findings
-> 📝 **Uses structured formatting** — bullet lists, numbered steps, definition blocks
-> 🏛️ **Comes from authoritative domains** — DR 50+ sites get cited far more often
-> 🔄 **Is referenced by other high-authority sources** — citations create citations
-> 👤 **Is attributed to named experts** — "According to [Named Expert], [Specific Claim]" structure
+> Authority is dynamic. Google's understanding of your site evolves. AI citations evolve. Link ecosystems evolve. If you aren't monitoring them, you're leaving your reputation to chance.
 >
-> The most powerful insight: **AI systems are essentially building their own authority signals.**
+> Build this into your quarterly workflow: run an E-E-A-T audit, review top-ranking pages for brand alignment, analyze new referring domains, and remove or disavow toxic links.
 >
-> A site that gets cited in AI answers gets more exposure, which builds more brand recognition, which generates more brand searches, which increases organic authority, which leads to more AI citations.
->
-> This flywheel is compounding right now. The window to get into it early is closing.
+> Distribution isn't just about pushing forward. It's about cleaning up behind you so every asset works in your favor.
 
-**Key Insight for AI-SEO Production:** 100Hires should prioritize creating original, statistical content about the ATS market (recruitment benchmarks, hiring data, SMB-specific statistics) that would be citable by AI systems. Being the source of original ATS data is the most defensible position in the GEO flywheel.
+**Key Insight for AI-SEO Production:** AI content production at 100Hires must include a "content hygiene" cycle. Because AI systems scrape the entire web to assess domain authority and brand context, old, low-quality, or off-topic content can actively drag down our AI citation rates. The playbook must include a quarterly E-E-A-T audit to update or prune legacy content.

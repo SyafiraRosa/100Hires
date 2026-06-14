@@ -3,96 +3,71 @@
 **Expert:** Wil Reynolds  
 **LinkedIn Profile:** https://www.linkedin.com/in/wilreynolds/  
 **Collection Date:** June 2026  
-**Source Type:** Manual collection of highest-engagement posts (2024–2025)
+**Source Type:** Manual collection of latest posts
 
 ---
 
 ## Post 1
 
-**Date:** October 2024  
-**Engagement:** ~2,340 reactions, 278 comments  
+**Date:** Early 2026  
 
-> **After 20 years in SEO, this is the conversation I still have to have with every CMO:**
+> **Bing webmaster tools, why would I use them for optimization in AI? That is what I used to think until they released a feature that is helping me pivot strategy for my own dang company.**
 >
-> "Why isn't our content driving more revenue?"
+> Within 30 seconds of logging in I saw a new page that I wasn't used to seeing at the top of my citations and now we're off to improve the page's user experience. This is why the user experience matters not just the visbility.
 >
-> Usually, the answer is one of these:
->
-> 1. **You're measuring the wrong thing.** You're measuring traffic and rankings, not pipeline influence and revenue attribution. Traffic is a proxy metric. Revenue is the actual goal.
->
-> 2. **Your content targets the wrong stage.** You published 50 awareness articles. Your buyer is in the decision stage when they finally show up. There is no bridge.
->
-> 3. **You didn't connect content to a clear next step.** Great article, no CTA, no trial link, no demo offer. The reader leaves informed but not converted.
->
-> 4. **Your content didn't build trust.** It informed, but it didn't demonstrate the kind of credibility that makes someone trust you with their budget.
->
-> AI doesn't solve any of these problems. It amplifies them.
->
-> AI lets you produce MORE content that targets the wrong thing, measures the wrong thing, and fails to convert — faster than ever before.
->
-> Use AI to accelerate strategy, not to avoid having one.
+> Here is step by step what I did:
+> 1 - Login (regularly)
+> 2 - Look for "new pages" in the last 7 days
+> 3 - Check what grounding queries are triggering for that page
+> 4 - Review the page to see if it is a good answer for those questions
+> 5 - If the page isn't a good answer for those grounding queries start your re-writes to make the page / information better for humans NOW so you can add a quality answer & hopefully stick long term
+> 6 - Fight the desire to go and high five yourself for having visbility, ask, given these grounding queries is this page helpful because at some point quality of answer will be found out, and will impact your longevity (that is a bet I'm making).
 
-**Key Insight for AI-SEO Production:** Wil's post is the strategic reality check for any AI content production program. For 100Hires, every piece of AI-assisted content must be evaluated against: Is this targeting the right stage? Does it have a clear conversion path? Does it build trust? Without this filter, scaling AI content production scales the wrong activity.
+**Key Insight for AI-SEO Production:** 100Hires can use Bing Webmaster Tools as an early-warning system for AI visibility. By checking "grounding queries" (the questions AI uses to retrieve our pages), we can reverse-engineer what the AI thinks our page is about. If the page doesn't actually answer those grounding queries well, we must immediately rewrite that section of the page, or the AI will eventually drop us from its citations.
 
 ---
 
 ## Post 2
 
-**Date:** January 2025  
-**Engagement:** ~1,890 reactions, 214 comments  
+**Date:** Early 2026  
 
-> **The "People First" concept: I said it in 2013. Google finally caught up in 2022.**
+> **I try so hard to not say "game changer" or "must read" but this one is.**
 >
-> When I launched "SEER Interactive's People First" approach in 2013, people thought I was being idealistic.
+> Garrett Sussman presented this at SEO week and it blew my mind. TL:DR what you email people is impacting AI visibility, now. They tested it, by industry, and shared the findings.
 >
-> I was being pragmatic.
+> This is the kind of moment I've been waiting for as a marketer, I've always wanted to be at the table when clients are making cross divisional decisions. Now, what you are putting in emails could impact AI... another client leader was asking me about their influencer program and how selecting between 2 major celebrities could impact AI visibility (FYI I was like one of them is HUGE on reddit, which could impact the training data).
 >
-> The idea was simple: build your SEO strategy around what your *customer* actually searches for when they have a real problem — not around what a keyword tool says has high volume.
->
-> In 2022, Google launched the "Helpful Content Update" with an almost identical framing.
->
-> In 2025, AI systems are selecting content to cite based on the same principle: is this content genuinely helpful to someone with this specific need, or is it optimized for a ranking algorithm?
->
-> The websites that get cited by AI systems are the ones that answered real questions from real people, without hedging for algorithm safety.
->
-> Being real is the best algorithm.
+> I love being at the table for these chats, I also know that showing up with low quality, low strategy GEO strategy will make clients assume you are "just" the pump out 50 pieces of content guy / gal.
 
-**Key Insight for AI-SEO Production:** For 100Hires, "People First" means the content production program starts with real customer research — actual questions from HR managers, startup founders, and recruiters who are evaluating ATS solutions — not keyword volume data. The research informs the content brief; the AI produces the first draft; humans validate against real user needs.
+**Key Insight for AI-SEO Production:** This proves that Generative Engine Optimization (GEO) is a holistic growth marketing discipline, not just an SEO silo. For 100Hires, this means our email newsletters sent to HR professionals, our PR campaigns, and our influencer partnerships directly feed the LLM training data. We must ensure our core positioning ("The best ATS for startups") is consistent across *all* channels, including email, to influence AI visibility.
 
 ---
 
 ## Post 3
 
-**Date:** March 2025  
-**Engagement:** ~1,650 reactions, 192 comments  
+**Date:** Early 2026  
 
-> **The SEO ROI conversation I wish more teams were having:**
+> **For those of us out here building AI skills at scale you need to run a prompt like this!**
 >
-> SEO team: "We drove 200,000 organic sessions last quarter."
+> Analyze the previous agent session in detail.
+> Identify all instances where the agent:
+> - Took an incorrect path
+> - Backtracked or corrected itself
+> - Spent unnecessary time exploring
 >
-> CMO: "How much revenue did that generate?"
+> For each instance:
+> - Describe the incorrect assumption
+> - Identify the missing or misleading signal in the repo
+> - Explain how the agent eventually recovered
 >
-> SEO team: "It's hard to attribute directly, but organic is a top-of-funnel channel..."
+> Then propose concrete fixes:
+> - Documentation improvements
+> - Naming changes
+> - Structural changes
+> - Test or validation additions
 >
-> This is where the conversation breaks down.
+> Prioritize recommendations by impact on agent efficiency.
 >
-> Here is how I recommend structuring the ROI conversation:
->
-> **Tier 1 (Directly attributable):**
-> - Organic sessions → trial signups with no prior touchpoint
-> - Organic sessions → demo requests from content pages
-> Track these with proper UTM parameters and last-touch attribution as a *floor* estimate.
->
-> **Tier 2 (Influenced):**
-> - Deals where content was a touchpoint in the 90-day pre-purchase window (multi-touch)
-> - Brand search volume growth as a proxy for content-driven brand awareness
->
-> **Tier 3 (Strategic):**
-> - AI citation rates (how often is your brand cited when a buyer asks a relevant question?)
-> - Community authority (are people in buyer communities recommending your brand?)
->
-> The complete picture is always Tier 1 + Tier 2 + Tier 3.
->
-> Teams that only measure Tier 1 systematically undervalue SEO — and get their budgets cut.
+> Jordan M. Strauss shared it with me a few days ago, and it makes your agents / skills so much more streamlined after 1 run. My AI is constantly building skills for me, so it can get the job done, but be super token inefficient, this helps a lot with that (and a few other things).
 
-**Key Insight for AI-SEO Production:** Wil's three-tier attribution model is the measurement framework 100Hires should use to evaluate the AI content production program. Tier 3 (AI citation rates) directly connects to the GEO strategy identified in Ross Simmonds' and Milosz Krasiński's research — making this a complete attribution picture.
+**Key Insight for AI-SEO Production:** This is an operational prompt for maintaining our own AI content generation systems at 100Hires. We shouldn't just run AI workflows; we should periodically run this "meta-prompt" to analyze *how* our AI agents (like Claude or Codex) are performing. This allows us to optimize our own internal documentation, content briefs, and naming conventions so our AI tools consume fewer tokens and produce fewer errors.

@@ -3,89 +3,62 @@
 **Expert:** Lily Ray  
 **LinkedIn Profile:** https://www.linkedin.com/in/lily-ray-44755615/  
 **Collection Date:** June 2026  
-**Source Type:** Manual collection of highest-engagement posts (2024–2025)
+**Source Type:** Manual collection of latest posts
 
 ---
 
 ## Post 1
 
-**Date:** October 2024  
-**Engagement:** ~2,100 reactions, 218 comments  
+**Date:** Early 2025  
 
-> **After analyzing 500+ sites affected by Google's algorithm updates, here's what I found:**
+> **Here's a little hack I've been using to quickly convert SEO keywords into relevant AI prompts at scale directly in Google sheets.**
 >
-> Sites that LOST traffic consistently had:
-> - Thin content that aggregated publicly available info without adding expertise
-> - Authors with no verifiable credentials or track record
-> - Content on topics clearly outside the site's area of expertise
-> - Pages with no real-world applicability or original research
+> Use the =AI or =Gemini function - plus this prompt I'll share below - to convert your SEO keywords into associated ways that users might type (or ask out loud) that same question into an AI assistant.
 >
-> Sites that GAINED (or held steady) consistently had:
-> - Content written by verifiable experts with documented experience
-> - Unique case studies, proprietary data, or original methodologies
-> - Strong about/author pages that established real-world credibility
-> - Content that answered questions *only someone with first-hand experience could answer*
+> It's not perfect (is any prompt selection, though?), but what I like about it is that it allows you to take keywords with real search volume (import from Ahrefs, Semrush, Similarweb, etc.) and quickly convert them into AI prompts at scale.
 >
-> The takeaway is not "avoid AI content."
+> Obviously - you can use an LLM to modify the prompt as needed to get a better result.
 >
-> The takeaway is: **your content must demonstrate genuine expertise that can't be faked.**
+> Prompt below:
 >
-> AI can assist experts. It cannot replace them.
+> =AI("You are converting a terse SEO search keyword into the natural-language query a real person would actually type or speak to an AI assistant like ChatGPT, Gemini, or a voice assistant. Rewrite the keyword as a single conversational question or request that preserves the exact search intent and intent type (informational, commercial, transactional, or local). Phrase it the way someone would genuinely ask out loud in a full sentence — not in keyword shorthand. Keep any brand, product, or location named in the keyword, but do NOT invent specifics, constraints, or details that aren't already implied. Do not answer the query. Return only the rewritten prompt as plain text — no quotation marks, no preamble, no explanation, no trailing punctuation beyond a question mark. Keyword:", A2)
 
-**Key Insight for AI-SEO Production:** For 100Hires, every AI-assisted content piece targeting hiring/ATS/recruitment topics must demonstrate domain expertise that is verifiable. This means including references to real client outcomes, product benchmarks, or industry data that only an ATS provider would possess.
+**Key Insight for AI-SEO Production:** This is a highly actionable SOP for 100Hires' keyword research phase. Because AI search engines (like ChatGPT or Google's AI Overview) rely heavily on natural language prompts rather than short-tail keywords, we must translate traditional SEO keyword lists into conversational questions before feeding them into our content briefs. This simple Sheets formula automates that crucial step.
 
 ---
 
 ## Post 2
 
-**Date:** January 2025  
-**Engagement:** ~1,780 reactions, 164 comments  
+**Date:** Early 2025  
 
-> **The E-E-A-T signals that actually move the needle (based on 3 years of studying Google's Quality Raters)**
+> **These are 3 well-known brands that are also listed as case studies of AI content scaling tools.**
 >
-> "Experience" is the most underrated signal right now.
+> They scaled a lot of page templates that can manipulate AI answers, like excessive "best X" content, self-promotional listicles, scaled comparison/alternative pages, etc. There's also some spammy structured data in the mix.
 >
-> Google added the first "E" to E-A-T in December 2022 — and most SEOs are still treating it as an afterthought.
+> Each site was hit hard by the Jan 20 update this year (which I wrote about in my Substack - link in comments), and the crash has continued ever since. This last core update only accelerated the declines.
 >
-> Here's what Experience looks like in practice:
+> These screenshots are views of the US organic Google visibility across their entire domains (via SISTRIX); even though the AI content generation appears to have been isolated to one subfolder on the site (from what I can tell), the impact is happening across the full domains.
 >
-> - A review article written by someone who *actually used the product*
-> - A how-to guide that includes mistakes the author made (not just best-case steps)
-> - A comparison article that reflects *real-world tradeoffs* the author encountered — not cherry-picked spec comparisons
-> - A product page with real customer stories that includes specific, verifiable outcomes
+> Now all companies are at the lowest organic search visibility they've seen in 5+ years.
 >
-> Experience signals are the *hardest* for AI to fake, because they require events that happened in the real world to be reflected in the content.
->
-> This is the frontier where human judgment is irreplaceable in an AI-assisted content workflow.
+> Google is not playing around. And I think they're making some new changes related to "inauthentic mentions." I'm working on that research now, so stay tuned.
 
-**Key Insight for AI-SEO Production:** 100Hires comparison pages (e.g., "100Hires vs. Workable" or "100Hires vs. Greenhouse") must include real customer experience signals — actual quotes, specific outcomes ("reduced time-to-hire by 40%"), and honest product limitations — to satisfy the Experience dimension of E-E-A-T.
+**Key Insight for AI-SEO Production:** This is the ultimate cautionary tale for our content production playbook. Scaling AI content via rigid templates (like programmatic "100Hires vs [Competitor]" pages generated purely by an LLM) can result in site-wide algorithm penalties. To avoid this, our AI-assisted comparison pages must contain genuine, human-verified "authentic mentions" and unique value that a template scaling tool cannot produce.
 
 ---
 
 ## Post 3
 
-**Date:** March 2025  
-**Engagement:** ~3,200 reactions, 301 comments  
+**Date:** Early 2025  
 
-> **I've been saying this for two years and it keeps being true:**
+> **This is a super cool development - Google is officially launching publisher profile pages within Google Discover for qualified publishers (who have a big social or video following).**
 >
-> The sites that are thriving in AI-era search are the ones that built REAL brands.
+> Publishers can use this page to show their articles, videos and social posts all in one place. Claiming your profile can even help earn a Knowledge Panel, or enhance existing Knowlege Panels!
 >
-> Not keyword-optimized content factories.
-> Not programmatic SEO temples with thin templates.
-> Not parasitic SEO schemes.
+> It is yet another example of the long-standing trend where Google is bridging the gap between search and social media.
 >
-> Real brands with:
-> - Recognizable named authors people actually search for
-> - Communities that generate authentic discussion and UGC
-> - Products/services that generate real reviews on third-party platforms
-> - PR mentions on authoritative publications
-> - Social signals that reflect genuine audience engagement
+> This also ties into a lot of changes Google has rolled out in the last ~8 years related to E-E-A-T: showcasing more brands, publishers, authors, experts and their associated social profiles, follower counts, videos, etc. all within the search ecosystem.
 >
-> I know this sounds like "just do marketing" advice, and it is.
->
-> Because at its core, Google's mission is to rank what's *genuinely useful and trustworthy* — and the way you signal trust at scale is to build something people would seek out even if Google didn't exist.
->
-> AI content that nobody would seek out directly is the most vulnerable content in today's search environment.
+> Google search is increasingly becoming personalized and focused on highlighting the brands, publishers, and people that users choose to follow.
 
-**Key Insight for AI-SEO Production:** This post defines the strategic goal for 100Hires content: produce AI-assisted content that is so genuinely useful to HR professionals and startup founders that they would seek it out directly — not just content that ranks for a keyword. Every piece should pass the "would someone bookmark this?" test.
+**Key Insight for AI-SEO Production:** This reinforces that SEO and Social are merging under the banner of E-E-A-T. Content produced for the 100Hires blog should be attributed to specific leaders within the company (like Alex Kravets) whose social presence is active. Google is directly linking off-page social signals to on-page author authority.
