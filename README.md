@@ -167,5 +167,5 @@ The most important findings that will directly inform a playbook for 100Hires:
 
 *Prepared with high-standards, technical rigor, and independent curiosity for **100Hires**.*  
 *Candidate: **Syafira Rosa Amalia***  
-*Phase 1 (Setup): Completed | Phase 2 (Research): Completed | Phase 3 (Playbook): In Progress*
+*Phase 1 (Setup): Completed | Phase 2 (Research): Completed | Phase 3: Awaiting Instructions*
 
